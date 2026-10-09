@@ -1,0 +1,15 @@
+outputs/
+review/
+hf_cache/
+torch_cache/
+weights/
+*.pth
+*.pt
+*.ckpt
+__pycache__/
+*.py[cod]
+*.so
+build/
+dist/
+*.egg-info/
+.DS_Store
